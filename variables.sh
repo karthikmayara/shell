@@ -1,6 +1,9 @@
 #!/bin/bash
 
-echo "rahim: hi, ram"
-echo "ram: hi, rahim"
-echo "rahim: bye"
-echo ram:bye
+PERSON1=Rahim
+PERSON2=ram
+
+echo "$PERSON1: hi, $PERSON2"
+echo "$PERSON2: hi, $PERSON2"
+echo "$PERSON1: bye"
+echo $PERSON2:bye

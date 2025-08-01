@@ -2,4 +2,4 @@
 
 echo enter username #text entered here will be added as value to variable
 
-read username # here username is the variable
+#read username # here username is the variable

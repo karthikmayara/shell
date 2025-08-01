@@ -8,4 +8,4 @@ echo entered username is $username
 
 echo enter your password
 
-read  password
+read  -s password
